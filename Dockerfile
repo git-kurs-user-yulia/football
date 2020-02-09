@@ -1,7 +1,6 @@
-# Fix einfügen
+#Feature dockerfile
 
-mega test
-1
+# Fix einfügen
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
